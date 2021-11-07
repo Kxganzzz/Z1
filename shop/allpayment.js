@@ -1,27 +1,25 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY YUDI GANZZ
 
-*さ BANK*
-1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
-		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0881 0375 58645
+		• Yu*******na
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ MAINTENANCE
+		• MENYUSUL YA
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0881 0375 58645
+		• yu*****mana
+4. Qris 
+        ㅁ Minta owner
+                 A/n alo**Ba***
 
 *さ PULSA*
 1. SMARTFREN
-	ㅁ 0887 4350 47326
-2. TELKOMSEL
-	ㅁ 0821 9311 5723
+	ㅁ 0881 0375 58645
+2. XL
+	ㅁ CHAT OWNER
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
