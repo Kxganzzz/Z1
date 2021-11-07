@@ -7,7 +7,7 @@ ${petik}│◦➛ WIB : ${timuu}
                           
 ┌❏ *TODAY*
 ${petik}│◦➛${ucapannya2}
-│◦➛Jam : ${wita}
+│◦➛Jam : ${timuu}
 │◦➛Hari : ${thisDay}
 └❏ Tanggal : ${ini_tanggal}${petik}
 
@@ -60,7 +60,7 @@ ${petik}├❒ Source
 ├❒ Group_support
 └❒ Ownerbot${petik}
 
-❒ _Creator yudi © ganzz_ ❒
+❒ _Creator yudi © 2K2K_ ❒
 `
 }
 const convert = (prefix) => {
